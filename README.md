@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any type of data project!
 - 📫 How to reach me: ashlynstrickland23@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: i've been to 10 countries & 4 continents 🌍
+- ⚡ Fun fact: i've been to 10 countries in 4 different continents 🌍
 
 <!---
 ashlynstrickland23/ashlynstrickland23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
