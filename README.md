@@ -1,6 +1,6 @@
 👋 I'm Ashlyn
 
-![Masters in Data Science](https://img.shields.io/badge/Master's%20in-Data%20Science-4B0082?style=for-the-badge) 
+![Masters Degree in Data Science](https://img.shields.io/badge/Master's%20in-Data%20Science-4B0082?style=for-the-badge) 
 
 ![Certified Data Scientist](https://img.shields.io/badge/Certified-Data%20Scientist-228B22?style=for-the-badge) 
 
