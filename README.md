@@ -1,4 +1,4 @@
-👋 I'm Ashlyn | Dashboard Expert
+👋 I'm Ashlyn
 
 ![Masters in Data Science](https://img.shields.io/badge/Master's%20in-Data%20Science-4B0082?style=for-the-badge)  May 2025
 
