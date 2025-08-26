@@ -1,4 +1,4 @@
-I'm Ashlyn 👋 | Dashboard Expert
+👋 I'm Ashlyn | Dashboard Expert
 
 🎓 Master's Degree in Data Science | May 2025
 
