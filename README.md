@@ -1,5 +1,4 @@
-<img width="1117" height="626" alt="image" src="https://github.com/user-attachments/assets/7170b2a2-b33e-49b5-8a8d-4ec4f5016baa" />
-
+https://github.com/alansmathew/alansmathew/raw/master/lang.gif
 
 I'm Ashlyn 👋 | Dashboard Expert
 
