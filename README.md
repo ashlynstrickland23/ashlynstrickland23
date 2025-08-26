@@ -1,5 +1,3 @@
-https://github.com/alansmathew/alansmathew/raw/master/lang.gif
-
 I'm Ashlyn 👋 | Dashboard Expert
 
 🎓 Master's Degree in Data Science | May 2025
