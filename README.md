@@ -1,10 +1,8 @@
 👋 I'm Ashlyn
 
-![Master’s Degree in Data Science](https://img.shields.io/badge/Master’s%20Degree-in%20Data%20Science-4B0082?style=f)
-
-![Certified Data Scientist](https://img.shields.io/badge/Certified-Data%20Scientist-228B22?style=for-the-badge) 
-
-![Expert Dashboard Developer](https://img.shields.io/badge/Expert-Dashboard%20Developer-1E90FF?style=for-the-badge&logo=microsoft&logoColor=white)
+![Master’s Degree in Data Science](https://img.shields.io/badge/MASTER’S%20DEGREE-Data%20Science-4B0082?style=for-the-badge)  
+![Certified Data Scientist](https://img.shields.io/badge/CERTIFIED-Data%20Scientist-228B22?style=for-the-badge)  
+![Expert Dashboard Developer](https://img.shields.io/badge/EXPERT-Dashboard%20Developer-1E90FF?style=for-the-badge)  
 
 
 📊 I design dashboards, automation, and analytics for smarter decisions
