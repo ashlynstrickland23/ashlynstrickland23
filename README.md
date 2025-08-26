@@ -1,7 +1,9 @@
 👋 I'm Ashlyn | Dashboard Expert
 
 ![Masters in Data Science](https://img.shields.io/badge/Master's%20in-Data%20Science-4B0082?style=for-the-badge)  May 2025
+
 ![Certified Data Scientist](https://img.shields.io/badge/Certified-Data%20Scientist-228B22?style=for-the-badge)  Power BI • Tableau • Excel • SQL • Python • R
+
 ![Expert Dashboard Developer](https://img.shields.io/badge/Expert-Dashboard%20Developer-1E90FF?style=for-the-badge&logo=microsoft&logoColor=white)
 
 
