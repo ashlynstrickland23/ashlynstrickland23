@@ -11,7 +11,7 @@
 
 🤝 Always open to collaborating on innovative data projects
 
-📍 Based in Nashville, TN | 🌎 Traveled to 10 countries across 4 continents
+📍 Based in Nashville, TN 
 
 📩 Reach me at ashlynstrickland23@gmail.com or 
 🔗 datadrivendashboards.com
