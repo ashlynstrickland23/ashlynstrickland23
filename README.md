@@ -12,100 +12,6 @@ I specialize in Power BI dashboard development, SQL reporting views, PostgreSQL 
 
 ---
 
-## Current Role
-
-I am currently working as a contract Data Engineer at Yourway Learning, where I work directly with PostgreSQL databases to build and maintain reporting views, optimize data structures, and support scalable analytics workflows.
-
-My work includes creating dashboard ready datasets, improving query efficiency, supporting direct database connected reporting, reducing reporting costs, and helping ensure business metrics are accurate, reliable, and accessible.
-
-I work with PostgreSQL, pgAdmin, DBeaver, SQL, GitHub, Jira, VS Code, and database connected reporting tools.
-
----
-
-## Open to Opportunities
-
-I am open to full time and contract opportunities in:
-
-* Business intelligence
-* Dashboard development
-* Power BI reporting
-* SQL reporting views
-* PostgreSQL analytics
-* Data engineering
-* KPI validation
-* Executive reporting
-
-I am based in Nashville, TN, prefer remote opportunities, and am open to relocating to Central Florida.
-
-I also provide freelance dashboard and analytics services through Fiverr, where I maintain a 4.9 out of 5 rating.
-
-[![Fiverr](https://img.shields.io/badge/Fiverr-View_My_Profile-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/s/LdVvlRj)
-
----
-
-## Featured Portfolio
-
-[![View My Data Analytics Portfolio](https://img.shields.io/badge/View-Data_Analytics_Portfolio-6A0DAD?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ashlynstrickland23/Data_Analytics_Portfolio)
-
-My main portfolio highlights my best work across Power BI, SQL, PostgreSQL, and business intelligence reporting. It includes selected projects focused on dashboard design, SQL reporting views, data storytelling, KPI validation, and executive analytics.
-
----
-
-## What I Do
-
-I help businesses turn raw data into reporting systems that are easy to understand, easy to use, and useful for decision making.
-
-My work includes:
-
-* Designing executive Power BI dashboards
-* Building SQL views for dashboard ready datasets
-* Connecting dashboards to structured reporting tables
-* Creating KPI logic and validation checks
-* Cleaning and transforming raw data
-* Building reporting models for sales, finance, operations, marketing, and customer analytics
-* Turning complex data into clear visual stories
-* Helping businesses understand what is happening and what needs attention
-
----
-
-## Portfolio Repositories
-
-| Portfolio | Focus |
-|---|---|
-| [Data Analytics Portfolio](https://github.com/ashlynstrickland23/Data_Analytics_Portfolio) | Main portfolio with selected Power BI and SQL projects |
-| [Power BI Portfolio](https://github.com/ashlynstrickland23/PowerBI_Portfolio) | Dashboard projects focused on sales, marketing, finance, profitability, and executive reporting |
-| [SQL Portfolio](https://github.com/ashlynstrickland23/SQL_Portfolio) | PostgreSQL projects focused on reporting views, KPI validation, customer segmentation, supply chain analytics, and finance analytics |
-
----
-
-## Featured Project Areas
-
-### Power BI Dashboard Development
-
-My Power BI projects focus on creating clean, professional dashboards that help users understand performance quickly. These dashboards include KPI cards, trends, slicers, drill downs, category analysis, financial metrics, and executive summaries.
-
-Featured dashboard areas include:
-
-* Sales performance
-* Google Analytics and marketing performance
-* Profit and loss reporting
-* Customer and product analysis
-* Executive KPI dashboards
-
-### SQL and PostgreSQL Reporting
-
-My SQL projects focus on transforming raw database records into reporting views that are ready for visualization. These projects show how SQL can be used to prepare clean datasets before connecting them to tools like Power BI, Amazon QuickSight, or Tableau.
-
-Featured SQL areas include:
-
-* Retail customer segmentation
-* Supply chain inventory optimization
-* Financial revenue anomaly detection
-* KPI validation
-* Dashboard ready reporting views
-
----
-
 ## Tools I Use
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -136,6 +42,110 @@ Featured SQL areas include:
 ![Data Validation](https://img.shields.io/badge/Data_Validation-B22222?style=for-the-badge)
 ![Analytics Strategy](https://img.shields.io/badge/Analytics_Strategy-4682B4?style=for-the-badge)
 ![Data Engineering](https://img.shields.io/badge/Data_Engineering-025E8C?style=for-the-badge)
+
+---
+
+## Featured Portfolio
+
+[![View My Data Analytics Portfolio](https://img.shields.io/badge/View-Data_Analytics_Portfolio-6A0DAD?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ashlynstrickland23/Data_Analytics_Portfolio)
+
+My main portfolio highlights my best work across Power BI, SQL, PostgreSQL, and business intelligence reporting. It includes selected projects focused on dashboard design, SQL reporting views, data storytelling, KPI validation, and executive analytics.
+
+---
+
+## Current Role
+
+I am currently working as a contract Data Engineer at Yourway Learning, where I work directly with PostgreSQL databases to build and maintain reporting views, optimize data structures, and support scalable analytics workflows.
+
+My work includes creating dashboard ready datasets, improving query efficiency, supporting direct database connected reporting, reducing reporting costs, and helping ensure business metrics are accurate, reliable, and accessible.
+
+I work with PostgreSQL, pgAdmin, DBeaver, SQL, GitHub, Jira, VS Code, and database connected reporting tools.
+
+---
+
+## Open to Opportunities
+
+I am open to full time and contract opportunities in:
+
+* Business intelligence
+* Dashboard development
+* Power BI reporting
+* SQL reporting views
+* PostgreSQL analytics
+* Data engineering
+* KPI validation
+* Executive reporting
+
+I am based in Nashville, TN, prefer remote opportunities, and am open to relocating to Central Florida.
+
+I also provide freelance dashboard and analytics services through Fiverr, where I maintain a 4.9 out of 5 rating.
+
+[![Fiverr](https://img.shields.io/badge/Fiverr-4.9%2F5_Rating-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/s/LdVvlRj)
+
+---
+
+## What I Build
+
+I help businesses turn raw data into reporting systems that are easy to understand, easy to use, and useful for decision making.
+
+My work includes:
+
+* Designing executive Power BI dashboards
+* Building SQL views for dashboard ready datasets
+* Connecting dashboards to structured reporting tables
+* Creating KPI logic and validation checks
+* Cleaning and transforming raw data
+* Building reporting models for sales, finance, operations, marketing, and customer analytics
+* Turning complex data into clear visual stories
+* Helping businesses understand what is happening and what needs attention
+
+---
+
+## Featured Project Areas
+
+### Power BI Dashboard Development
+
+My Power BI projects focus on creating clean, professional dashboards that help users understand performance quickly. These dashboards include KPI cards, trends, slicers, drill downs, category analysis, financial metrics, and executive summaries.
+
+Featured dashboard areas include:
+
+* Sales performance
+* Google Analytics and marketing performance
+* Profit and loss reporting
+* Customer and product analysis
+* Executive KPI dashboards
+
+<img src="https://raw.githubusercontent.com/ashlynstrickland23/PowerBI_Portfolio/main/Sales_Performance_Dashboard/images/Untitled%20design%20%286%29.gif" width="900">
+
+[View Power BI Portfolio](https://github.com/ashlynstrickland23/PowerBI_Portfolio)
+
+---
+
+### SQL and PostgreSQL Reporting
+
+My SQL projects focus on transforming raw database records into reporting views that are ready for visualization. These projects show how SQL can be used to prepare clean datasets before connecting them to tools like Power BI, Amazon QuickSight, or Tableau.
+
+Featured SQL areas include:
+
+* Retail customer segmentation
+* Supply chain inventory optimization
+* Financial revenue anomaly detection
+* KPI validation
+* Dashboard ready reporting views
+
+<img src="https://raw.githubusercontent.com/ashlynstrickland23/SQL_Portfolio/main/01_Retail_Customer_Segmentation_SQL/screenshots/Customer%20Segmentation%20Revenue%20Summary.png" width="900">
+
+[View SQL Portfolio](https://github.com/ashlynstrickland23/SQL_Portfolio)
+
+---
+
+## Portfolio Repositories
+
+| Portfolio | Focus |
+|---|---|
+| [Data Analytics Portfolio](https://github.com/ashlynstrickland23/Data_Analytics_Portfolio) | Main portfolio with selected Power BI and SQL projects |
+| [Power BI Portfolio](https://github.com/ashlynstrickland23/PowerBI_Portfolio) | Dashboard projects focused on sales, marketing, finance, profitability, and executive reporting |
+| [SQL Portfolio](https://github.com/ashlynstrickland23/SQL_Portfolio) | PostgreSQL projects focused on reporting views, KPI validation, customer segmentation, supply chain analytics, and finance analytics |
 
 ---
 
