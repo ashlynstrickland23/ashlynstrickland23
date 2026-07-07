@@ -5,16 +5,18 @@
 ![Dashboard Developer](https://img.shields.io/badge/Expert-Dashboard_Developer-1E90FF?style=for-the-badge)
 ![Business Intelligence](https://img.shields.io/badge/Business_Intelligence-Developer-008080?style=for-the-badge)
 ![Data Engineer](https://img.shields.io/badge/Data_Engineer-PostgreSQL-025E8C?style=for-the-badge)
+![Tableau](https://img.shields.io/badge/Tableau-Dashboard_Design-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 I am a Data Scientist, Data Engineer, and Business Intelligence Developer with a Master’s degree in Data Science and a Certified Data Scientist background.
 
-I specialize in Power BI dashboard development, SQL reporting views, PostgreSQL data modeling, Python analytics, R analytics, KPI validation, forecasting, machine learning, and executive reporting. My work focuses on transforming raw data into clean reporting models, dashboard ready datasets, predictive outputs, and clear business insights that help organizations make smarter data driven decisions.
+I specialize in Power BI dashboard development, Tableau dashboard design, SQL reporting views, PostgreSQL data modeling, Python analytics, R analytics, KPI validation, forecasting, machine learning, and executive reporting. My work focuses on transforming raw data into clean reporting models, dashboard ready datasets, predictive outputs, and clear business insights that help organizations make smarter data driven decisions.
 
 ---
 
 ## Tools I Use
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -43,6 +45,7 @@ I specialize in Power BI dashboard development, SQL reporting views, PostgreSQL 
 
 ![Dashboard Development](https://img.shields.io/badge/Dashboard_Development-228B22?style=for-the-badge)
 ![Business Intelligence](https://img.shields.io/badge/Business_Intelligence-1E90FF?style=for-the-badge)
+![Tableau Dashboards](https://img.shields.io/badge/Tableau_Dashboards-E97627?style=for-the-badge)
 ![SQL Reporting Views](https://img.shields.io/badge/SQL_Reporting_Views-6A0DAD?style=for-the-badge)
 ![KPI Validation](https://img.shields.io/badge/KPI_Validation-DC143C?style=for-the-badge)
 ![Data Modeling](https://img.shields.io/badge/Data_Modeling-008080?style=for-the-badge)
@@ -62,7 +65,7 @@ I specialize in Power BI dashboard development, SQL reporting views, PostgreSQL 
 
 [![View My Main Portfolio](https://img.shields.io/badge/View-Main_Data_Portfolio-6A0DAD?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ashlynstrickland23/Data_Analytics_Portfolio)
 
-My main portfolio highlights selected projects across Power BI, SQL, PostgreSQL, Python, R, business intelligence, and data science. It includes dashboard development, SQL reporting views, data cleaning, forecasting, machine learning, KPI validation, risk modeling, and executive analytics.
+My main portfolio highlights selected projects across Power BI, Tableau, SQL, PostgreSQL, Python, R, business intelligence, and data science. It includes dashboard development, SQL reporting views, data cleaning, forecasting, machine learning, KPI validation, risk modeling, and executive analytics.
 
 ---
 
@@ -70,8 +73,9 @@ My main portfolio highlights selected projects across Power BI, SQL, PostgreSQL,
 
 | Portfolio | Focus |
 |---|---|
-| [Data Analytics, BI, and Data Science Portfolio](https://github.com/ashlynstrickland23/Data_Analytics_Portfolio) | Main portfolio with selected Power BI, SQL, Python, and R projects |
+| [Data Analytics, BI, and Data Science Portfolio](https://github.com/ashlynstrickland23/Data_Analytics_Portfolio) | Main portfolio with selected Power BI, Tableau, SQL, Python, and R projects |
 | [Power BI Portfolio](https://github.com/ashlynstrickland23/PowerBI_Portfolio) | Dashboard projects focused on sales, marketing, finance, profitability, and executive reporting |
+| [Tableau Portfolio](https://github.com/ashlynstrickland23/Tableau_Portfolio) | Tableau dashboard projects focused on sales analysis, profitability, order priority, RM performance, and interactive business reporting |
 | [SQL Portfolio](https://github.com/ashlynstrickland23/SQL_Portfolio) | PostgreSQL projects focused on reporting views, KPI validation, customer segmentation, supply chain analytics, and finance analytics |
 | [Python Business Analytics Portfolio](https://github.com/ashlynstrickland23/Python_Portfolio) | Python projects focused on data cleaning, automation, forecasting, machine learning, churn prediction, and dashboard ready outputs |
 | [R Portfolio](https://github.com/ashlynstrickland23/R_Portfolio) | R projects focused on customer churn, credit risk modeling, healthcare readmission risk, statistical analysis, classification, and dashboard ready outputs |
@@ -87,6 +91,16 @@ My Power BI projects focus on creating clean, professional dashboards that help 
 <img src="https://raw.githubusercontent.com/ashlynstrickland23/PowerBI_Portfolio/main/Sales_Performance_Dashboard/images/Untitled%20design%20%286%29.gif" width="900">
 
 [View Power BI Portfolio](https://github.com/ashlynstrickland23/PowerBI_Portfolio)
+
+---
+
+### Tableau Dashboard Design
+
+My Tableau projects focus on interactive dashboard design, sales analysis, profitability review, geographic analysis, order priority analysis, relationship manager performance, goal tracking, bonus analysis, and executive level dashboard storytelling.
+
+<img src="https://raw.githubusercontent.com/ashlynstrickland23/Tableau_Portfolio/main/01_Superstore_Sales_Profitability_Tableau/images/profits_by_location.png" width="900">
+
+[View Tableau Portfolio](https://github.com/ashlynstrickland23/Tableau_Portfolio)
 
 ---
 
@@ -126,7 +140,7 @@ I am currently working as a contract Data Engineer at Yourway Learning, where I 
 
 My work includes creating dashboard ready datasets, improving query efficiency, supporting direct database connected reporting, reducing reporting costs, and helping ensure business metrics are accurate, reliable, and accessible.
 
-I work with PostgreSQL, pgAdmin, DBeaver, SQL, GitHub, Jira, VS Code, Power BI, Amazon QuickSight, and database connected reporting tools.
+I work with PostgreSQL, pgAdmin, DBeaver, SQL, GitHub, Jira, VS Code, Power BI, Tableau, Amazon QuickSight, and database connected reporting tools.
 
 ---
 
@@ -137,6 +151,7 @@ I help businesses turn raw data into reporting systems that are easy to understa
 My work includes:
 
 * Designing executive Power BI dashboards
+* Designing interactive Tableau dashboards
 * Building SQL views for dashboard ready datasets
 * Connecting dashboards to structured reporting tables
 * Creating KPI logic and validation checks
@@ -166,6 +181,8 @@ I enjoy building analytics solutions that answer practical business questions, s
 * How can messy files be cleaned and automated?
 * How can revenue trends be forecasted?
 * How can raw data be turned into a clear decision making tool?
+* Which sales teams or relationship managers are meeting goals?
+* Where are discounts hurting profitability?
 
 ---
 
@@ -176,6 +193,7 @@ I am open to full time and contract opportunities in:
 * Business intelligence
 * Dashboard development
 * Power BI reporting
+* Tableau dashboard development
 * SQL reporting views
 * PostgreSQL analytics
 * Python analytics
