@@ -1,6 +1,5 @@
 # 👋 Hi, I’m Ashlyn Strickland
 
-### Data Scientist 
 
 ![Master's Degree](https://img.shields.io/badge/Master's_Degree-Data_Science-6A0DAD?style=for-the-badge)
 ![Certified Data Scientist](https://img.shields.io/badge/Certified-Data_Scientist-228B22?style=for-the-badge)
