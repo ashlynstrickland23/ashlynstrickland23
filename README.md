@@ -8,7 +8,7 @@
 
 I am a Data Scientist, Data Engineer, and Business Intelligence Developer with a Master’s degree in Data Science and a Certified Data Scientist background.
 
-I specialize in Power BI dashboard development, SQL reporting views, PostgreSQL data modeling, KPI validation, and executive analytics. My work focuses on transforming raw data into clean reporting models, dashboard ready datasets, and clear business insights that help organizations make smarter data driven decisions.
+I specialize in Power BI dashboard development, SQL reporting views, PostgreSQL data modeling, Python analytics, KPI validation, forecasting, machine learning, and executive reporting. My work focuses on transforming raw data into clean reporting models, dashboard ready datasets, predictive outputs, and clear business insights that help organizations make smarter data driven decisions.
 
 ---
 
@@ -17,6 +17,10 @@ I specialize in Power BI dashboard development, SQL reporting views, PostgreSQL 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![DBeaver](https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logoColor=white)
 ![pgAdmin](https://img.shields.io/badge/pgAdmin-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Amazon QuickSight](https://img.shields.io/badge/Amazon_QuickSight-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -36,20 +40,64 @@ I specialize in Power BI dashboard development, SQL reporting views, PostgreSQL 
 ![SQL Reporting Views](https://img.shields.io/badge/SQL_Reporting_Views-6A0DAD?style=for-the-badge)
 ![KPI Validation](https://img.shields.io/badge/KPI_Validation-DC143C?style=for-the-badge)
 ![Data Modeling](https://img.shields.io/badge/Data_Modeling-008080?style=for-the-badge)
-![Data Storytelling](https://img.shields.io/badge/Data_Storytelling-FF8C00?style=for-the-badge)
-![Executive Reporting](https://img.shields.io/badge/Executive_Reporting-2E8B57?style=for-the-badge)
 ![Data Visualization](https://img.shields.io/badge/Data_Visualization-4B0082?style=for-the-badge)
-![Data Validation](https://img.shields.io/badge/Data_Validation-B22222?style=for-the-badge)
-![Analytics Strategy](https://img.shields.io/badge/Analytics_Strategy-4682B4?style=for-the-badge)
+![Python Analytics](https://img.shields.io/badge/Python_Analytics-3776AB?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-8A2BE2?style=for-the-badge)
+![Forecasting](https://img.shields.io/badge/Forecasting-FF1493?style=for-the-badge)
 ![Data Engineering](https://img.shields.io/badge/Data_Engineering-025E8C?style=for-the-badge)
+![Executive Reporting](https://img.shields.io/badge/Executive_Reporting-2E8B57?style=for-the-badge)
+![Data Validation](https://img.shields.io/badge/Data_Validation-B22222?style=for-the-badge)
 
 ---
 
 ## Featured Portfolio
 
-[![View My Data Analytics Portfolio](https://img.shields.io/badge/View-Data_Analytics_Portfolio-6A0DAD?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ashlynstrickland23/Data_Analytics_Portfolio)
+[![View My Main Portfolio](https://img.shields.io/badge/View-Main_Data_Portfolio-6A0DAD?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ashlynstrickland23/Data_Analytics_Portfolio)
 
-My main portfolio highlights my best work across Power BI, SQL, PostgreSQL, and business intelligence reporting. It includes selected projects focused on dashboard design, SQL reporting views, data storytelling, KPI validation, and executive analytics.
+My main portfolio highlights selected projects across Power BI, SQL, PostgreSQL, Python, business intelligence, and data science. It includes dashboard development, SQL reporting views, data cleaning, forecasting, machine learning, KPI validation, and executive analytics.
+
+---
+
+## Portfolio Repositories
+
+| Portfolio | Focus |
+|---|---|
+| [Data Analytics, BI, and Data Science Portfolio](https://github.com/ashlynstrickland23/Data_Analytics_Portfolio) | Main portfolio with selected Power BI, SQL, and Python projects |
+| [Power BI Portfolio](https://github.com/ashlynstrickland23/PowerBI_Portfolio) | Dashboard projects focused on sales, marketing, finance, profitability, and executive reporting |
+| [SQL Portfolio](https://github.com/ashlynstrickland23/SQL_Portfolio) | PostgreSQL projects focused on reporting views, KPI validation, customer segmentation, supply chain analytics, and finance analytics |
+| [Python Business Analytics Portfolio](https://github.com/ashlynstrickland23/Python_Portfolio) | Python projects focused on data cleaning, automation, forecasting, machine learning, churn prediction, and dashboard ready outputs |
+
+---
+
+## Featured Project Areas
+
+### Power BI Dashboard Development
+
+My Power BI projects focus on creating clean, professional dashboards that help users understand performance quickly. These dashboards include KPI cards, trends, slicers, drill downs, category analysis, financial metrics, and executive summaries.
+
+<img src="https://raw.githubusercontent.com/ashlynstrickland23/PowerBI_Portfolio/main/Sales_Performance_Dashboard/images/Untitled%20design%20%286%29.gif" width="900">
+
+[View Power BI Portfolio](https://github.com/ashlynstrickland23/PowerBI_Portfolio)
+
+---
+
+### SQL and PostgreSQL Reporting
+
+My SQL projects focus on transforming raw database records into reporting views that are ready for visualization. These projects show how SQL can be used to prepare clean datasets before connecting them to tools like Power BI, Amazon QuickSight, or Tableau.
+
+<img src="https://raw.githubusercontent.com/ashlynstrickland23/SQL_Portfolio/main/01_Retail_Customer_Segmentation_SQL/screenshots/Customer%20Segmentation%20Revenue%20Summary.png" width="900">
+
+[View SQL Portfolio](https://github.com/ashlynstrickland23/SQL_Portfolio)
+
+---
+
+### Python Business Analytics and Data Science
+
+My Python projects focus on cleaning messy files, creating dashboard ready datasets, analyzing trends, forecasting revenue, building machine learning models, and identifying customer churn risk.
+
+<img src="https://raw.githubusercontent.com/ashlynstrickland23/Python_Portfolio/main/03_Customer_Churn_Prediction/images/top_churn_prediction_drivers.png" width="900">
+
+[View Python Portfolio](https://github.com/ashlynstrickland23/Python_Portfolio)
 
 ---
 
@@ -60,27 +108,6 @@ I am currently working as a contract Data Engineer at Yourway Learning, where I 
 My work includes creating dashboard ready datasets, improving query efficiency, supporting direct database connected reporting, reducing reporting costs, and helping ensure business metrics are accurate, reliable, and accessible.
 
 I work with PostgreSQL, pgAdmin, DBeaver, SQL, GitHub, Jira, VS Code, and database connected reporting tools.
-
----
-
-## Open to Opportunities
-
-I am open to full time and contract opportunities in:
-
-* Business intelligence
-* Dashboard development
-* Power BI reporting
-* SQL reporting views
-* PostgreSQL analytics
-* Data engineering
-* KPI validation
-* Executive reporting
-
-I am based in Nashville, TN, prefer remote opportunities, and am open to relocating to Central Florida.
-
-I also provide freelance dashboard and analytics services through Fiverr, where I maintain a 4.9 out of 5 rating.
-
-[![Fiverr](https://img.shields.io/badge/Fiverr-4.9%2F5_Rating-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/s/LdVvlRj)
 
 ---
 
@@ -95,57 +122,12 @@ My work includes:
 * Connecting dashboards to structured reporting tables
 * Creating KPI logic and validation checks
 * Cleaning and transforming raw data
+* Building Python analytics workflows
+* Creating forecasting and machine learning models
+* Preparing dashboard ready CSV outputs
 * Building reporting models for sales, finance, operations, marketing, and customer analytics
 * Turning complex data into clear visual stories
 * Helping businesses understand what is happening and what needs attention
-
----
-
-## Featured Project Areas
-
-### Power BI Dashboard Development
-
-My Power BI projects focus on creating clean, professional dashboards that help users understand performance quickly. These dashboards include KPI cards, trends, slicers, drill downs, category analysis, financial metrics, and executive summaries.
-
-Featured dashboard areas include:
-
-* Sales performance
-* Google Analytics and marketing performance
-* Profit and loss reporting
-* Customer and product analysis
-* Executive KPI dashboards
-
-<img src="https://raw.githubusercontent.com/ashlynstrickland23/PowerBI_Portfolio/main/Sales_Performance_Dashboard/images/Untitled%20design%20%286%29.gif" width="900">
-
-[View Power BI Portfolio](https://github.com/ashlynstrickland23/PowerBI_Portfolio)
-
----
-
-### SQL and PostgreSQL Reporting
-
-My SQL projects focus on transforming raw database records into reporting views that are ready for visualization. These projects show how SQL can be used to prepare clean datasets before connecting them to tools like Power BI, Amazon QuickSight, or Tableau.
-
-Featured SQL areas include:
-
-* Retail customer segmentation
-* Supply chain inventory optimization
-* Financial revenue anomaly detection
-* KPI validation
-* Dashboard ready reporting views
-
-<img src="https://raw.githubusercontent.com/ashlynstrickland23/SQL_Portfolio/main/01_Retail_Customer_Segmentation_SQL/screenshots/Customer%20Segmentation%20Revenue%20Summary.png" width="900">
-
-[View SQL Portfolio](https://github.com/ashlynstrickland23/SQL_Portfolio)
-
----
-
-## Portfolio Repositories
-
-| Portfolio | Focus |
-|---|---|
-| [Data Analytics Portfolio](https://github.com/ashlynstrickland23/Data_Analytics_Portfolio) | Main portfolio with selected Power BI and SQL projects |
-| [Power BI Portfolio](https://github.com/ashlynstrickland23/PowerBI_Portfolio) | Dashboard projects focused on sales, marketing, finance, profitability, and executive reporting |
-| [SQL Portfolio](https://github.com/ashlynstrickland23/SQL_Portfolio) | PostgreSQL projects focused on reporting views, KPI validation, customer segmentation, supply chain analytics, and finance analytics |
 
 ---
 
@@ -159,21 +141,33 @@ I enjoy building analytics solutions that answer practical business questions, s
 * Which customers may need retention attention?
 * Which suppliers or operations need review?
 * Are dashboard numbers matching the source database?
+* How can messy files be cleaned and automated?
+* How can revenue trends be forecasted?
 * How can raw data be turned into a clear decision making tool?
 
 ---
 
-## Current Portfolio Focus
+## Open to Opportunities
 
-I am currently expanding my portfolio across both dashboard development and SQL reporting.
+I am open to full time and contract opportunities in:
 
-My recent work includes:
+* Business intelligence
+* Dashboard development
+* Power BI reporting
+* SQL reporting views
+* PostgreSQL analytics
+* Python analytics
+* Data engineering
+* Forecasting
+* Machine learning
+* KPI validation
+* Executive reporting
 
-* Power BI dashboards for sales, marketing, finance, and executive reporting
-* PostgreSQL projects using large simulated datasets
-* SQL views for customer segmentation, supply chain analytics, and finance anomaly detection
-* Dashboard validation queries to compare reporting outputs against raw source tables
-* Preparing SQL datasets for future visualization in Amazon QuickSight and Power BI
+I am based in Nashville, TN, prefer remote opportunities, and am open to relocating to Central Florida.
+
+I also provide freelance dashboard and analytics services through Fiverr, where I maintain a 4.9 out of 5 rating.
+
+[![Fiverr](https://img.shields.io/badge/Fiverr-4.9%2F5_Rating-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/s/LdVvlRj)
 
 ---
 
