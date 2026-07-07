@@ -73,7 +73,7 @@ My main portfolio highlights selected projects across Power BI, Tableau, SQL, Po
 
 | Portfolio | Focus |
 |---|---|
-| [Data Analytics, BI, and Data Science Portfolio](https://github.com/ashlynstrickland23/Data_Analytics_Portfolio) | Main portfolio with selected Power BI, Tableau, SQL, Python, and R projects |
+| [Data Science Portfolio](https://github.com/ashlynstrickland23/Data_Analytics_Portfolio) | Main portfolio with selected Power BI, Tableau, SQL, Python, and R projects |
 | [Power BI Portfolio](https://github.com/ashlynstrickland23/PowerBI_Portfolio) | Dashboard projects focused on sales, marketing, finance, profitability, and executive reporting |
 | [Tableau Portfolio](https://github.com/ashlynstrickland23/Tableau_Portfolio) | Tableau dashboard projects focused on sales analysis, profitability, order priority, RM performance, and interactive business reporting |
 | [SQL Portfolio](https://github.com/ashlynstrickland23/SQL_Portfolio) | PostgreSQL projects focused on reporting views, KPI validation, customer segmentation, supply chain analytics, and finance analytics |
